@@ -25,7 +25,7 @@ def main():
     | Severely obese       | BMI≥40        |
     
     ## BMI calculation
-    The source code of this application is [here](https://github.com/wang0618/PyWebIO/blob/dev/demos/bmi.py)
+    The source code of this application is [here](https://github.com/SandeepMajumdar/project_bmi_calculator_deploy/blob/main/app.py)
     """, strip_indent=4)
 
     info = input_group('BMI calculation', [
